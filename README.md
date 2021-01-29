@@ -63,5 +63,8 @@ Lembro que essa é a versão 1.0 do aplicativo, ela é a base do aplicativo essa
 
 Fabiano Basso Antonio.
 
+**OBS:** A versão 2.0 desse aplicativo já está disponível, com muito mais features com uso de banco de dados e seguindo toda regra de negócio. caso tenha interesse pode entrar em contato comigo pelo meu Linkedin.
 
 **Linkedin:** https://www.linkedin.com/in/fabiano-basso
+
+ 
