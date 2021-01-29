@@ -22,7 +22,7 @@
         </a>
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="app/logoff.php">Sair</a>
+                <a class="nav-link" href="app/logoff.php"><i class="fas fa-sign-out-alt fa-2x"></i></a>
             </li>
         </ul>
     </nav>

@@ -41,7 +41,7 @@
         </a>
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="app/logoff.php">Sair</a>
+                <a class="nav-link" href="app/logoff.php"><i class="fas fa-sign-out-alt fa-2x"></i></a>
             </li>
         </ul>
     </nav>
@@ -95,18 +95,32 @@
                         </div>
                         <!-- FIM Texto explicativos -->
                         
+                        <div class="mt-5 row">
+                            <div class="col-4 d-flex justify-content-center">
+                                <a href="listarUsuario.php">
+                                    <i class="fas fa-address-card fa-5x"></i>
+                                </a>    
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-4 d-flex justify-content-center">
+                                <strong>Listar Usuários</strong> 
+                            </div>
+                        </div>
+                        
                         <?php } else { ?>
                         
                         <!-- Inicio link direcionamento -->    
                         <div class="row">
                             <div class="col-6 d-flex justify-content-center">
                                 <a href="abrirChamado.php">
-                                    <img src="assets/img/abrirChamado.png" width="70" height="70" alt="Abertura de Chamado">
+                                    <i class="fas fa-edit fa-5x"></i>
                                 </a>
                             </div>
                             <div class="col-6 d-flex justify-content-center">
                                 <a href="consultarChamado.php">
-                                    <img src="assets/img/consultarChamado.png" width="70" height="70" alt="Consultar Chamado">
+                                    <i class="fas fa-search fa-5x"></i>
                                 </a>    
                             </div>
                         </div>

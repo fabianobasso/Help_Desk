@@ -45,9 +45,9 @@ function formatarUser($usuarios){
     return $usuarioIdentificado;
 }
 
-function recuperarUsuarios(){
+function recuperarUsuarios($nomeArquivo = 'user.hd'){
     $usuarios = [];
-    $arquivoUser = fopen('user.hd', 'r');
+    $arquivoUser = fopen($nomeArquivo, 'r');
     while (!feof($arquivoUser)){
         $usuario = fgets($arquivoUser);
         $usuarios[] = $usuario;
