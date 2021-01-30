@@ -28,8 +28,8 @@ Já para quem é da área de TI, vai ter um controle de todos os chamados aberto
         <td><b>Home Perfil Usuário</b></td>
     </tr>
     <tr>
-        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaHomeAdm.png" width="700" height="300"></td>
-        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaHomeUsuario1.png" width="700" height="300" ></td>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaHomeAdm.png" width="700" height="200"></td>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaHomeUsuario1.png" width="700" height="200" ></td>
     </tr>
 </table>
 
