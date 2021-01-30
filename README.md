@@ -110,7 +110,7 @@ Foi criado dois perfil para sistema:.
 # Como executar o projeto
 
 **Pré-requisitos:**. 
-- Sistema Operacional Linux, Windows e MAC
+- Sistema Operacional Linux, Windows ou MAC
 - XAMPP instalado ou qualquer outro para simular servidor web (Somente necessário o php para funcionar)
 - Navegador de internet.
 

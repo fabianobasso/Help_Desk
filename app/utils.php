@@ -22,6 +22,11 @@ function configInicial(){
     }  
 }
 
+/**
+ * Função que entregar um array separado com chave e valor os usuários
+ * @param Array $usuarios
+ * @return Array
+ */
 function formatarUser($usuarios){
     $usuariosFormatados = [];
     $usuarioIdentificado = [];
@@ -45,6 +50,11 @@ function formatarUser($usuarios){
     return $usuarioIdentificado;
 }
 
+/**
+ * Função que recupera os usuários do user.hd
+ * @param String $nomeArquivo
+ * @return Array
+ */
 function recuperarUsuarios($nomeArquivo = 'user.hd'){
     $usuarios = [];
     $arquivoUser = fopen($nomeArquivo, 'r');
@@ -116,6 +126,10 @@ function listarChamados($chamados) {
     return $chamados;
 }
 
+/**
+ * Função para adicionar um novo usuário no user.hd
+ * @param String $texto
+ */
 function cadastrarUsuario($texto){
     $arquivoUsuario = fopen('user.hd', 'a');
     fwrite($arquivoUsuario, $texto);
