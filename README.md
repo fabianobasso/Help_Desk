@@ -93,7 +93,7 @@ Foi usado session recurso do PHP para trabalhar com seção para verificar se o 
 
 Foi criado dois perfil para sistema:.
 
-**Administrador** consegue cadastrar novos usuários no sistema, consegue visualizar todos os chamados abertos.
+**Administrador** consegue cadastrar novos usuários no sistema, consegue visualizar todos os chamados abertos e listar todos os usuário cadastrados.
 
 **Usuário** consegue apenas abrir o chamado e consultar apenas seu próprio chamado aberto.
 
