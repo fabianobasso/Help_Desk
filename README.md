@@ -13,7 +13,14 @@ Já para quem é da área de TI, vai ter um controle de todos os chamados aberto
 
 # Layout
 
-
+<table>
+    <tr>
+        <td><b>Tela Inicial do Aplicativo</b></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaPrincipal.png"></td>
+    </tr>
+</table>
 
 &nbsp;
 &nbsp;
