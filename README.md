@@ -20,10 +20,6 @@ Já para quem é da área de TI, vai ter um controle de todos os chamados aberto
     <tr>
         <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaPrincipal1.png" width="600" height="300" ></td>
     </tr>
-    <tr>
-        <td><b>Descrição:</b> Tela de autenticação de usuário.</td>
-    </tr>
-    
 </table>
  <br>
  <br>   
@@ -33,9 +29,6 @@ Já para quem é da área de TI, vai ter um controle de todos os chamados aberto
     </tr>
     <tr>
         <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaHomeAdm.png" width="600" height="300"></td>
-    </tr>
-    <tr>
-        <td><b>Descrição:</b></td>
     </tr>
 </table>
 <br>
@@ -47,13 +40,50 @@ Já para quem é da área de TI, vai ter um controle de todos os chamados aberto
     <tr>
         <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaHomeUsuario1.png" width="600" height="300" ></td>
     </tr>
+</table>
+<br>
+<br>
+<table>
     <tr>
-        <td><b>Descrição:</b></td>
+        <td><b>Abrir Chamado</b></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaAberturaChamado.png" width="600" height="300" ></td>
     </tr>
 </table>
+<br>
+<br>
+<table>
+    <tr>
+        <td><b>Consultar Chamado</b></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaConsultaChamado.png" width="600" height="300" ></td>
+    </tr>
+</table>
+<br>
+<br>
+<table>
+    <tr>
+        <td><b>Cadastro de Usuário</b></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaCadastroUsuario.png" width="600" height="300" ></td>
+    </tr>
+</table>
+<br>
+<br>
+<table>
+    <tr>
+        <td><b>Listar Usuário</b></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/HelpDesk/helpTelaListarUsuario.png" width="600" height="300" ></td>
+    </tr>
+</table>
+<br>
+<br>
 
-&nbsp;
-&nbsp;
 # Tecnologias utilizadas
 
 ### Informações
